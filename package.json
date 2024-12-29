@@ -1,0 +1,25 @@
+{
+  "name": "ecommercefreshcart",
+  "version": "1.0.0",
+  "description": "ecommerceFreshCartWebsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudKhaled122/EcommerceFreshCartWebsite.git"
+  },
+  "keywords": [
+    "ECommerce",
+    "FreshCart",
+    "Shopping",
+    "BlackFriday"
+  ],
+  "author": "Mahmoud Khaled Shabaan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudKhaled122/EcommerceFreshCartWebsite/issues"
+  },
+  "homepage": "https://github.com/MahmoudKhaled122/EcommerceFreshCartWebsite#readme"
+}
